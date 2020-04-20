@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Digital Udhaar Khata</string>
+    <string name="welcome">வரவேற்பு</string>
+    <string name="contacts">தொடர்புகள்</string>
+    <string name="amount">தொகை</string>
+    <string name="add">கூட்டு</string>
+    <string name="no_transaction">இப்போது பரிவர்த்தனைகள் இல்லை</string>
+    <string name="balance">மீதம்</string>
+    <string name="give_credit">கடன் கொடுங்கள்</string>
+    <string name="accept_payment">கட்டணத்தை ஏற்றுக்கொள்</string>
+    <string name="Due">கடன்</string>
+    <string name="Advance">திரட்டப்பட்ட தொகை</string>
+    <string name="search">தேடல் பெயர்</string>
+
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Digital Udhaar Khata</string>
+    <string name="welcome">స్వాగత</string>
+    <string name="contacts">కాంటాక్ట్స్</string>
+    <string name="amount">మొత్తము</string>
+    <string name="add">చేర్చు</string>
+    <string name="no_transaction">ప్రస్తుతం లావాదేవీలు లేవు</string>
+    <string name="balance">మిగిలినవి</string>
+    <string name="give_credit">వస్తువులు</string>
+    <string name="accept_payment">చెల్లింపు తీసుకోండి</string>
+    <string name="Due">ఋణం</string>
+    <string name="Advance">సంచిత మొత్తం</string>
+    <string name="search">శోధన పేరు</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Digital Udhaar Khata</string>
+    <string name="welcome">خوش آمدید</string>
+    <string name="contacts">فون نمبر</string>
+    <string name="amount">رقم</string>
+    <string name="add">شامل کریں</string>
+    <string name="no_transaction">ابھی کوئی لین دین نہیں ہے</string>
+    <string name="balance">بقایا</string>
+    <string name="give_credit">قرض دینا</string>
+    <string name="accept_payment">ادائیگی کریں</string>
+    <string name="Due">واجب الادا</string>
+    <string name="Advance">جمع شدہ رقم</string>
+    <string name="search">تلاش نام</string>
+</resources>

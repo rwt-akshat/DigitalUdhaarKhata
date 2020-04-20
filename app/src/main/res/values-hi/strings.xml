@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Digital Udhaar Khata</string>
+    <string name="welcome">स्वागत है</string>
+    <string name="contacts">संपर्क</string>
+    <string name="amount">रकम</string>
+    <string name="add">जोड़</string>
+    <string name="no_transaction">अभी कोई लेन-देन नहीं</string>
+    <string name="balance">शेष</string>
+    <string name="accept_payment">भुगतान ले</string>
+    <string name="give_credit">उधार दे</string>
+    <string name="Due">उधार</string>
+    <string name="Advance">जमा हुई राशि</string>
+    <string name="search">नाम खोजे</string>
+</resources>
