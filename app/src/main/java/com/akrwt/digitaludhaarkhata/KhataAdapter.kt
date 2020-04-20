@@ -47,7 +47,7 @@ class KhataAdapter(var context: Context, var khataList: ArrayList<KhataModel>) :
             } else {
                 holder.amount.text = current.take
                 holder.time.text = current.time
-                holder.date.text = current.take
+                holder.date.text = current.date
             }
         }
     }
